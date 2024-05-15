@@ -1,0 +1,19 @@
+##
+https://www.scaler.com/academy/mentee-dashboard/class/34564/assignment/problems/22381?navref=cl_tt_lst_nm
+
+
+```
+
+int Solution::solve(vector<vector<int> > &A) {
+    unordered_set<string>s;
+    int sizeOfArray = A.size();
+    for(int i = 0; i < sizeOfArray;i++){
+        string ans = "";
+        ans += to_string(A[i][0]) + "@" + to_string(A[i][1]);
+        s.insert(ans);
+    }
+    return s.size();
+}
+
+
+```
