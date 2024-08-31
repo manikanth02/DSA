@@ -10,3 +10,5 @@ https://takeuforward.org/graph/breadth-first-search-bfs-level-order-traversal/
 4. [NUMBER OF ISLANDS](https://leetcode.com/problems/number-of-islands/)
 
 5. [FLOOD FILL ALGORITHMS](https://www.geeksforgeeks.org/problems/flood-fill-algorithm1856/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=flood-fill-algorithm)
+
+6. [ROTTING ORANGES](https://leetcode.com/problems/rotting-oranges/description/)
