@@ -37,3 +37,54 @@ public:
 
 
 ```
+
+
+
+
+
+
+
+
+```
+
+idea-2 :: using dfs 
+
+
+
+class Solution {
+public:
+    bool dfs(int node, vector<int>& color,vector<int> adj[]){
+        
+        for(auto &ele : adj[node]){
+            if(color[ele] == -1){
+                color[ele] = 1 - color[node];
+                if(!dfs(ele,color,adj)){
+                    return false;
+                }
+            }else if(color[ele] == color[node]){
+                return false;
+            }
+        }
+        return true;
+        
+    }
+	bool isBipartite(int V, vector<int>adj[]){
+	    
+	    vector<int>color(V,-1);
+	    for(int i = 0; i < V;i++){
+    	    if(color[i] == -1){
+    	        color[i] = 0;
+    	        if(!dfs(i,color,adj)){
+    	            return false;
+    	        }
+    	     }
+	       }
+	    return true;
+	}
+
+};
+
+
+
+
+```
