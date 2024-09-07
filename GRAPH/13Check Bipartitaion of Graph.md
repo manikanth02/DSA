@@ -2,6 +2,7 @@
 
 ```
 
+idea - 2 :: using bfs
 class Solution {
 public:
 	bool isBipartite(int V, vector<int>adj[]){
