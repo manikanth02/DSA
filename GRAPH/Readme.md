@@ -13,7 +13,7 @@
 
 6. [ROTTING ORANGES](https://leetcode.com/problems/rotting-oranges/description/)✅
 
-7. [CYCLE DETECTION IN UNDIRECTED GRAPH](https://www.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=detect-cycle-in-an-undirected-graph)
+7. [CYCLE DETECTION IN UNDIRECTED GRAPH](https://www.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=detect-cycle-in-an-undirected-graph)✅
 
 8. [DISTANCE OF NEAREST CELL HAVING 1](https://www.geeksforgeeks.org/problems/distance-of-nearest-cell-having-1-1587115620/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=distance-of-nearest-cell-having-1)
    
