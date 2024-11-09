@@ -94,7 +94,7 @@
 
 
 
-5.Sliding Windows
+5.Sliding Window
 
 
 
