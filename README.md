@@ -7,7 +7,7 @@
 
 
 
-2.Strings
+2.String
 
 
 
